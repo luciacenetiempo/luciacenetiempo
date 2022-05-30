@@ -45,7 +45,7 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dark Theme Toggle](https://dev.to/luciacenetiempo/dark-theme-toggle-56p9)
+- [Dark Theme Toggle - How to create a dark mode switch in a few lines of JS + CSS](https://dev.to/luciacenetiempo/dark-theme-toggle-56p9)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=luciacenetiempo)  
