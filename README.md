@@ -2,7 +2,7 @@
 ![I am senior frontend developer in love with Javascript ❤️](https://media-exp1.licdn.com/dms/image/C4E16AQEFmKTkwiMYiw/profile-displaybackgroundimage-shrink_350_1400/0/1611148660867?e=1659571200&v=beta&t=Myw5n67yyPafNoqQa_ycuiyvqn4zYxAyXu5p_Vwtuto)
 
 
-### Hi there 👋, my name is Lucia
+### Hi there 👋, my name is Lucia 
 #### I am senior frontend developer in love with Javascript ❤️
 
 ![Profile views](https://gpvc.arturio.dev/luciacenetiempo)  
