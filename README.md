@@ -16,6 +16,10 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 # Todoist Stats
 
 <!-- TODO-IST:START -->
+🏆  97 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 1 tasks so far           
+⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=luciacenetiempo)](https://github.com/ryo-ma/github-profile-trophy)
