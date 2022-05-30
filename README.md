@@ -33,7 +33,5 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-<p align="center">
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=luciacenetiempo)  
-</p>
 
