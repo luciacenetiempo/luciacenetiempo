@@ -17,6 +17,13 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 - 💬 Ask me about Everything you want to know 
 - 📫 How to reach me: luciacenetiempo@gmail.com 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=luciacenetiempo)](https://github.com/ryo-ma/github-profile-trophy)
+
+# You can find me also here:
+
+[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='25'>](https://github.com/luciacenetiempo)  [<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white' alt='dev' height='25'>](https://dev.to/https://dev.to/luciacenetiempo)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luciacenetiempo//)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='25'>](https://www.instagram.com/https://www.instagram.com/lucia.cenetiempo//)  [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='25'>](https://codepen.io/https://codepen.io/luciacenetiempo)  [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='25'>](https://stackoverflow.com/users/https://stackoverflow.com/users/19231165/lucia)  [<img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white' alt='website' height='25'>](https://www.luciacenetiempo.com)  
+
+
 # I do things
 
 <!-- TODO-IST:START -->
@@ -26,11 +33,7 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-# You can find me here:
-
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='25'>](https://github.com/luciacenetiempo)  [<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white' alt='dev' height='25'>](https://dev.to/https://dev.to/luciacenetiempo)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luciacenetiempo//)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='25'>](https://www.instagram.com/https://www.instagram.com/lucia.cenetiempo//)  [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='25'>](https://codepen.io/https://codepen.io/luciacenetiempo)  [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='25'>](https://stackoverflow.com/users/https://stackoverflow.com/users/19231165/lucia)  [<img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white' alt='website' height='25'>](https://www.luciacenetiempo.com)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=luciacenetiempo)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=luciacenetiempo)  
+</p>
 
