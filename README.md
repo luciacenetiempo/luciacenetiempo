@@ -37,9 +37,9 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 ### I do things
 
 <!-- TODO-IST:START -->
-🏆  420 Karma Points           
-🌸  Completed 6 tasks today           
-✅  Completed 14 tasks so far           
+🏆  520 Karma Points           
+🌸  Completed 8 tasks today           
+✅  Completed 16 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
