@@ -41,14 +41,16 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 ### I do things
 
 <!-- TODO-IST:START -->
-🏆  247 Karma Points           
-🌸  Completed 7 tasks today           
-✅  Completed 8 tasks so far           
-⏳  Longest streak is 1 days
+🏆  1,193 Karma Points           
+🌸  Completed 3 tasks today           
+✅  Completed 36 tasks so far           
+⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 websites to start growing your Frontend Developer skills!](https://dev.to/luciacenetiempo/5-websites-to-start-growing-your-frontend-developer-skills-1mli)
+- [It&#39;s Monday again](https://dev.to/luciacenetiempo/its-monday-again-146)
 - [Dark Theme Toggle - How to create a dark mode switch in a few lines of JS + CSS](https://dev.to/luciacenetiempo/dark-theme-toggle-56p9)
 <!-- BLOG-POST-LIST:END -->
 
