@@ -47,7 +47,9 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 
 ### I do things
 
-<a href="https://app.daily.dev/luciacenetiempo"><img src="https://github.com/luciacenetiempo/luciacenetiempo/blob/main/devcard.svg" width="400" alt="Lucia Cenetiempo's Dev Card"/></a><!-- TODO-IST:START -->
+<a href="https://app.daily.dev/luciacenetiempo"><img src="https://github.com/luciacenetiempo/luciacenetiempo/blob/main/devcard.svg" width="400" alt="Lucia Cenetiempo's Dev Card"/></a>
+
+<!-- TODO-IST:START -->
 🏆  1,193 Karma Points           
 🌸  Completed 3 tasks today           
 ✅  Completed 36 tasks so far           
