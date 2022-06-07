@@ -39,6 +39,14 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 
 ### I do things
 
+<div style="width:400px; display: flex; flex-flow: column; height: 200px;">
+a b c
+</div>
+
+
+<a href="https://app.daily.dev/luciacenetiempo"><img src="https://github.com/luciacenetiempo/luciacenetiempo/blob/main/devcard.svg" width="400" alt="Lucia Cenetiempo's Dev Card"/></a>
+
+
 <!-- TODO-IST:START -->
 🏆  1,193 Karma Points           
 🌸  Completed 3 tasks today           
@@ -55,5 +63,3 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=luciacenetiempo)  
 
-
-<a href="https://app.daily.dev/luciacenetiempo"><img src="https://github.com/luciacenetiempo/luciacenetiempo/blob/master/devcard.svg" width="400" alt="Lucia Cenetiempo's Dev Card"/></a>
