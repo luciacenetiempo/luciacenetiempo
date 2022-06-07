@@ -27,6 +27,10 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 ### My Hosts
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+
+<a href="https://app.daily.dev/luciacenetiempo"><img src="https://github.com/luciacenetiempo/luciacenetiempo/blob/master/devcard.svg" width="400" alt="Lucia Cenetiempo's Dev Card"/></a>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=luciacenetiempo)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### You can find me also here:
