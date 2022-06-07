@@ -36,30 +36,23 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 
 [<img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white' alt='website' height='25'>](https://www.luciacenetiempo.com)  [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='25'>](https://github.com/luciacenetiempo)  [<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white' alt='dev' height='25'>](https://dev.to/luciacenetiempo)  [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='25'>](https://codepen.io/luciacenetiempo)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='25'>](https://www.linkedin.com/in/luciacenetiempo//)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='25'>](https://www.instagram.com/lucia.cenetiempo/)  [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='25'>](https://stackoverflow.com/users/19231165/lucia)  
 
-
-### I do things
-
-<div style="width:400px; display: flex; flex-flow: column; height: 200px;">
-a b c
-</div>
-
-
-<a href="https://app.daily.dev/luciacenetiempo"><img src="https://github.com/luciacenetiempo/luciacenetiempo/blob/main/devcard.svg" width="400" alt="Lucia Cenetiempo's Dev Card"/></a>
-
-
-<!-- TODO-IST:START -->
-🏆  1,193 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 36 tasks so far           
-⏳  Longest streak is 3 days
-<!-- TODO-IST:END -->
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [5 websites to start growing your Frontend Developer skills!](https://dev.to/luciacenetiempo/5-websites-to-start-growing-your-frontend-developer-skills-1mli)
 - [It&#39;s Monday again](https://dev.to/luciacenetiempo/its-monday-again-146)
 - [Dark Theme Toggle - How to create a dark mode switch in a few lines of JS + CSS](https://dev.to/luciacenetiempo/dark-theme-toggle-56p9)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+### I do things
+
+<a href="https://app.daily.dev/luciacenetiempo"><img src="https://github.com/luciacenetiempo/luciacenetiempo/blob/main/devcard.svg" width="400" alt="Lucia Cenetiempo's Dev Card"/></a><!-- TODO-IST:START -->
+🏆  1,193 Karma Points           
+🌸  Completed 3 tasks today           
+✅  Completed 36 tasks so far           
+⏳  Longest streak is 3 days
+<!-- TODO-IST:END -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=luciacenetiempo)  
 
