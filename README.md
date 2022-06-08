@@ -51,7 +51,7 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 <a href="https://app.daily.dev/luciacenetiempo"><img src="https://github.com/luciacenetiempo/luciacenetiempo/blob/main/devcard.svg" width="400" alt="Lucia Cenetiempo's Dev Card"/></a>
 
 <!-- TODO-IST:START -->
-🏆  1,322 Karma Points           
+🏆  1,408 Karma Points           
 🌸  Completed 12 tasks today           
 ✅  Completed 48 tasks so far           
 ⏳  Longest streak is 3 days
