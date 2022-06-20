@@ -38,6 +38,7 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Make your life as frontend developer easier](https://dev.to/luciacenetiempo/make-your-life-as-frontend-developer-easier-46op)
 - [Why are CSS frameworks so used?](https://dev.to/luciacenetiempo/why-are-css-frameworks-so-used-3d30)
 - [5 websites to start growing your Frontend Developer skills!](https://dev.to/luciacenetiempo/5-websites-to-start-growing-your-frontend-developer-skills-1mli)
 - [It&#39;s Monday again](https://dev.to/luciacenetiempo/its-monday-again-146)
