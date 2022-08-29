@@ -1,5 +1,5 @@
 
-![I am senior frontend developer in love with Javascript ❤️](https://media-exp1.licdn.com/dms/image/C4E16AQEFmKTkwiMYiw/profile-displaybackgroundimage-shrink_350_1400/0/1611148660867?e=1659571200&v=beta&t=Myw5n67yyPafNoqQa_ycuiyvqn4zYxAyXu5p_Vwtuto)
+![I am senior frontend developer in love with Javascript ❤️](https://user-images.githubusercontent.com/38978846/187196728-822857ce-75ea-4919-ae43-14ea7d15801a.jpeg)
 
 
 ### Hi there 👋, my name is Lucia 
