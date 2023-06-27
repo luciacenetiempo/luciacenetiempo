@@ -36,11 +36,11 @@ Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unleash the Developer Tools Magic: Unlocking Top-Secret Hacks!](https://dev.to/luciacenetiempo/unleash-the-developer-tools-magic-unlocking-top-secret-hacks-2g7o)
 - [Make your life as frontend developer easier](https://dev.to/luciacenetiempo/make-your-life-as-frontend-developer-easier-46op)
 - [Why are CSS frameworks so used?](https://dev.to/luciacenetiempo/why-are-css-frameworks-so-used-3d30)
 - [5 websites to start growing your Frontend Developer skills!](https://dev.to/luciacenetiempo/5-websites-to-start-growing-your-frontend-developer-skills-1mli)
 - [It&#39;s Monday again](https://dev.to/luciacenetiempo/its-monday-again-146)
-- [Dark Theme Toggle - How to create a dark mode switch in a few lines of JS + CSS](https://dev.to/luciacenetiempo/dark-theme-toggle-56p9)
 <!-- BLOG-POST-LIST:END -->
 
 
