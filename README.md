@@ -5,8 +5,6 @@
 ### Hi there 👋, my name is Lucia 
 #### I am senior frontend developer in love with Javascript ❤️
 
-![Profile views](https://gpvc.arturio.dev/luciacenetiempo)  
-
 On this git hub account you can find some of my snippets that I use on a daily basis to make my work more effective.
 
 Skills: JS / REACT / NEXT.JS / VUE.JS / NUXT.JS
